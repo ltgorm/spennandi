@@ -20,6 +20,6 @@ bool Bicycle::isFullSuspension() {
 }
 
 void Bicycle::ride() {
-	std::cout << (fullSuspension ? "Smooth riding\n" : "Not so smooth\n");
+	std::cout << (fullSuspension ? "Smooth riding - Er'etta ekki massinn???\n" : "Not so smooth\n");
 }
 
