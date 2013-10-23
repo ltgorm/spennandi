@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C++ Express 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloArnar", "HelloArnar\HelloArnar.vcxproj", "{57BC72CD-870A-4E52-AA97-6A25DCE2E76A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloGeir", "..\HelloGeir\HelloGeir.vcxproj", "{5974ADD9-3E40-4DB7-B87A-A91D77C5DF5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{57BC72CD-870A-4E52-AA97-6A25DCE2E76A}.Debug|Win32.Build.0 = Debug|Win32
 		{57BC72CD-870A-4E52-AA97-6A25DCE2E76A}.Release|Win32.ActiveCfg = Release|Win32
 		{57BC72CD-870A-4E52-AA97-6A25DCE2E76A}.Release|Win32.Build.0 = Release|Win32
+		{5974ADD9-3E40-4DB7-B87A-A91D77C5DF5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5974ADD9-3E40-4DB7-B87A-A91D77C5DF5D}.Debug|Win32.Build.0 = Debug|Win32
+		{5974ADD9-3E40-4DB7-B87A-A91D77C5DF5D}.Release|Win32.ActiveCfg = Release|Win32
+		{5974ADD9-3E40-4DB7-B87A-A91D77C5DF5D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
